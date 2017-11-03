@@ -1,3 +1,4 @@
 ﻿  ConsoleApplication1.cpp
 d:\【學校】系上\多媒體系統\mms2017fall\consoleapplication1\consoleapplication1\consoleapplication1.cpp(30): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\【學校】系上\多媒體系統\mms2017fall\consoleapplication1\consoleapplication1\consoleapplication1.cpp(90): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
   ConsoleApplication1.vcxproj -> D:\【學校】系上\多媒體系統\MMS2017FALL\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
