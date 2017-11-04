@@ -1,6 +1,7 @@
 Dithering分法分析
 
 * 原圖
+
 ![uncghanged](https://github.com/tagakisuzu/MMS2017FALL/blob/master/ConsoleApplication1/ConsoleApplication1/001.jpg)
 
 * 灰階圖
